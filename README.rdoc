@@ -1,3 +1,7 @@
+= ATTENTION:
+I did not make this gem, this repository is just the result of the {pull request}[https://github.com/songkick/oauth2-provider/pull/73] that
+they haven't approved yet
+
 = Songkick::OAuth2::Provider
 
 {<img src="https://secure.travis-ci.org/songkick/oauth2-provider.png?branch=master" alt="Build Status" />}[http://travis-ci.org/songkick/oauth2-provider]
